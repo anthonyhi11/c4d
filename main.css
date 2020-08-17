@@ -7,7 +7,7 @@
 .hero {
 	height: 100vh;
 	width: 100vw;
-	background-image: url('img/code-hero.jpg');
+	background-image: url('https://anthonyhi11.github.io/c4d/img/code-hero.jpg');
 	background-size: 100%;
 	display: flex;
 	flex-direction: column;
